@@ -1,0 +1,59 @@
+* machines and mechanical equipment
+
+- Telephone
+
+telephone-busy.aiff  telephone-ring-old.aiff  (looped)
+telephone-hang-up.aiff  telephone-pick-up.aiff
+
+- Clocks
+
+clock-bong.aiff  clock-chime.aiff  clock-clang.aiff  clock-cuckoo.aiff
+clock-tick.aiff  
+(all looped)
+
+- Motors
+
+motor-clunk-start.aiff  motor-clunk-run.aiff  
+motor-whine-start.aiff  motor-whine-run.aiff
+("run" sounds are looped)
+
+- Glass
+
+mech/glass-breaking.aiff  mech/glass-breaking-reverb.aiff  
+mech/glass-breaking-short-reverb.aiff
+
+- Typing Sounds
+
+keyboard-1.aiff  keyboard-2.aiff  keyboard-3.aiff  keyboard-4.aiff  
+keyboard-5.aiff
+typewriter-elec-1.aiff  typewriter-elec-2.aiff  typewriter-elec-3.aiff 
+typewriter-elec-4.aiff  typewriter-elec-5.aiff
+
+- Other assorted
+
+cork-pop.aiff  door-slam.aiff  metal-clack.aiff  metal-clash.aiff
+ziplash-high.aiff  ziplash-low.aiff
+
+alarm-bell.aiff  electrical-arc.aiff  field-whistle.aiff  leather-squeak.aiff
+piledriver.aiff  (looped)
+
+* sources:
+
+alarm-bell.aiff clock-bong.aiff clock-chime.aiff clock-clang.aiff
+clock-cuckoo.aiff clock-tick.aiff cork-pop.aiff motor-clunk-run.aiff
+motor-clunk-start.aiff motor-whine-run.aiff motor-whine-start.aiff
+piledriver.aiff telephone-busy.aiff telephone-hang-up.aiff
+telephone-pick-up.aiff
+-- Madacy Music Group sound effect collections
+-- "Any commercial use in whole or in part of these sound effects 
+   constitutes a violation of copyright laws."
+
+door-slam.aiff  electrical-arc.aiff  field-whistle.aiff  
+mech/glass-breaking.aiff  mech/glass-breaking-reverb.aiff  
+mech/glass-breaking-short-reverb.aiff  keyboard-[1-5].aiff 
+leather-squeak.aiff  metal-clack.aiff  metal-clash.aiff  
+telephone-ring-old.aiff  typewriter-elec-[1-5].aiff
+ziplash-high.aiff  ziplash-low.aiff
+-- Nesak International sound effect collections
+-- Permission granted for non-commercial use with Boodler
+

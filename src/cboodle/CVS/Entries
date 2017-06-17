@@ -1,0 +1,27 @@
+/PORTING/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-alsa.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-esd.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-file.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-lame.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-macosx.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-oss.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-shout.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-stdout.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev-vorbis.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/audev.h/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-alsa.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-esd.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-file.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-lame.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-macosx.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-oss.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-shout.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-stdout.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle-vorbis.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/cboodle.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/common.h/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/noteq.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/noteq.h/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/sample.c/1.1.1.1/Thu Jan  8 23:47:49 2009//
+/sample.h/1.1.1.1/Thu Jan  8 23:47:49 2009//
+D
